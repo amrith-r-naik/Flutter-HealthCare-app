@@ -6,6 +6,6 @@ Here's the [link](https://www.youtube.com/watch?v=eegl7of4g-o  "👨🏽‍💻 
 
 ## The Design
 
-![Homepage.dart](assests/images/home_page_ss.jpg)
+<img src="assests/images/home_page_ss.jpg" style="width:15em;">
 
 Thank You For Visiting!
